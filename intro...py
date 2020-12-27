@@ -17,12 +17,12 @@ Python can be used for rapid prototyping ,or for productions-ready software deve
 WHY PYTHON ?
 Python works on different platforms(Windows, Mac, Linux, Rasberry Pi)
 Python has a simple syntax similar to the English Language
-Python has syntax that allowed developers to write program with fewer lines of code than some other Programming languages
-Python runs on an interpreter system. that means, code can be excuted as soon as it is written.This is means prototyping can be very quick
+Python has syntax that allowed developers to write program with fewer lines of code 
+Python runs on an interpreter system. that means, code can be executed as soon as it is written.This means prototyping can be very quick
 Python can be treated in procedural way ,an Object-Oriented-Language or a funtional way 
 
 GOOD TO KNOW 
 The most recent major version of Python is Python 3
 Which we shall be using in this tutorial 
-And also Python can be written on a text editor such as vs code, Atom, Sublime 
+And also Python can be written on a text editor such as Vs Code, Atom, Sublime 
 It is also possible to write Python on an Integrated Development Environment (IDE) such as Pycharm,netbeans,eclipse
