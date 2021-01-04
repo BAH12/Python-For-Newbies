@@ -7,7 +7,7 @@ or by creating a python file on the server, using the .py extension, and running
 "C:\\Users\Your Name>myfile.py"
 
                     PYTHON INDENTATION
-                    '.'
+                  
 Indentation refers to the spaces at the beginning of a code line
 Where in other Programming languages the indentation is for readability only, The indentation in python is very important
 Python uses indentation to indicate a block of code 
@@ -18,7 +18,7 @@ if 5 > 2:
 print('Five is greater than two')
 The number of spaces is up to you as a programmer,but it has to be at least one
 
-You have to use the same number of spaces inthe same block of code
+You have to use the same number of spaces in the same block of code
 Otherwise python will give you an error
 if 5 > 2:
     print('Five is greater than two')

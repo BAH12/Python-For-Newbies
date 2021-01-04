@@ -1,5 +1,5 @@
                             PYTHON VARIABLES
-Variables are contains for storing data values
+Variables are containers for storing data values
 
                         CREATING VARIABLES
 Python has no command for declaring a variable
@@ -141,7 +141,7 @@ The global variable with same name will remain as it was,global and with the ori
 Create a variable inside a function with the same name as the global variable
 x = 'awesome'
 def myfunc():
-    x = 'fantastics'
+    x = 'fantastic'
     print('Python is '+ x)
 
 myfunc()
@@ -156,7 +156,7 @@ example
 If you use the global keyword the variable belongs to the scope
 def myfunc():
     global x
-    x = 'fantastics'
+    x = 'fantastic'
 
 
 myfunc()
@@ -168,7 +168,7 @@ To change the value of a global variable inside a function refer to the variable
 x = 'awesome'
 def myfunc():
     global x
-    x = 'fantastics'
+    x = 'fantastic'
 
 myfunc()
 print('Python is ' +x)
