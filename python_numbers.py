@@ -79,6 +79,8 @@ print(type(a))
 print(type(b))
 print(type(c))
 
+NOTE: You cannot convert complex numbers into another number type 
+
 
                                     RANDOM NUMBER
 Python does not have a random() function to make a random number, but python has a built-in module called 'random' that can be used to make random numbers

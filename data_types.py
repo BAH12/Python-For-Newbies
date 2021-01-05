@@ -22,36 +22,36 @@ print(type(x))
                             SETTING THE DATA TYPE
 In programming,the data type is set when you assign a value to the variable:
 Example                                              DATA TYPE
-X = 'Hello World'                                    str
-X = 20                                               int
-X = 20.5                                             float
-X = 1j                                               complex
-X = ['apple', 'banana', 'cherry']                    list
-X = ('apple', 'banana', 'cherry')                    tuple
-X = range(6)                                         range
-X = {'name': 'Adonis', 'age': 23}                    dict
-X = {'apple', 'banana', 'cherry'}                    set
-X = ({'apple', 'banana', 'cherry'})                  frozenset
-X = True                                             bool
-X = b'Hello'                                         bytes
-X = bytearray(6)                                     bytearray
-X = memoryview(bytes(6))                             memoryview
+x = 'Hello World'                                    str
+x = 20                                               int
+x = 20.5                                             float
+x = 1j                                               complex
+x = ['apple', 'banana', 'cherry']                    list
+x = ('apple', 'banana', 'cherry')                    tuple
+x = range(6)                                         range
+x = {'name': 'Adonis', 'age': 23}                    dict
+x = {'apple', 'banana', 'cherry'}                    set
+x = ({'apple', 'banana', 'cherry'})                  frozenset
+x = True                                             bool
+x = b'Hello'                                         bytes
+x = bytearray(6)                                     bytearray
+x = memoryview(bytes(6))                             memoryview
 
 
                                 SETTING THE SPECIFIC DATA TYPES
 If you want to specify the data type,you can use following constructor functions
 Example                                                         DATA TYPE
-X = str('Hello World')                                          str
-X = int(20)                                                     int
-X = float(20.5)                                                 float
-X = complex(1j)                                                 complex
-X = list(('apple', 'banana', 'cherry'))                         list
-X = tuple(('apple', 'banana', 'cherry'))                        tuple
-X = range(6)                                                    range
-X = dict(name='Adonis', age=23)                                  dict
-X = set(('apple', 'banana', 'cherry'))                           set
-X = frozenset(('apple', 'banana', 'cherry'))                     frozenset
-X = bool(5)                                                       bool
-X = bytes(5)                                                      bytes
-X = bytearray(5)                                                  bytearray
-X = memorey(bytes(5))                                             memoryview
+x = str('Hello World')                                          str
+x = int(20)                                                     int
+x = float(20.5)                                                 float
+x = complex(1j)                                                 complex
+x = list(('apple', 'banana', 'cherry'))                         list
+x = tuple(('apple', 'banana', 'cherry'))                        tuple
+x = range(6)                                                    range
+x = dict(name='Adonis', age=23)                                  dict
+x = set(('apple', 'banana', 'cherry'))                           set
+x = frozenset(('apple', 'banana', 'cherry'))                     frozenset
+x = bool(5)                                                       bool
+x = bytes(5)                                                      bytes
+x = bytearray(5)                                                  bytearray
+x = memorey(bytes(5))                                             memoryview
