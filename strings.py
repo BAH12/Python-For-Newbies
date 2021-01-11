@@ -98,9 +98,9 @@ NOTE: The first character has index 0
 
 
                 SLICE FROM THE START
-By leaving out the start index, the range will stat at the first character
+By leaving out the start index, the range will start at the first character
 eg
-Get the characters from the start to the  position 5(but not included)
+Get the characters from the start to the position 5(but not included)
 a = 'Hello World'
 print(a[:5])
 
@@ -237,7 +237,7 @@ format_map()                Formats specified values in a string
 index()                     Searches the string for a specified value and
                             returns the position of where it was found
 
-isalnum()                   Retruns True if all characters are alphanumeric
+isalnum()                   Returns True if all characters are alphanumeric
 
 isdecimal()                 Returns True if all characters in the string are decimals
 
@@ -298,7 +298,7 @@ split()                     Splits the string at the specified separators, and
 
 splitlines()                Splits the string at line breaks and returns a list
 
-startwith()                 Returns True if the string starts with the
+startswith()                Returns True if the string starts with the
                             specified value
 
 strip()                     Returns a trimmed version of the string
