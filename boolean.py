@@ -16,9 +16,9 @@ Print a message based on whether is True or False
 x = 200
 y = 33
 if x > y:
-    print('x is grater than y')
+    print('x is greater than y')
 else:
-    print('y is not grater than x')
+    print('y is not greater than x')
 
                             EVALUTE VALUES AND VARIABLES
 The bool() function allows you to evalute any value and give you True or False
@@ -72,7 +72,7 @@ def myfunc():
     return True
 print(myfunc())
 
-You can execute code based on the Boolean answert of a function
+You can execute code based on the Boolean answer of a function
 eg
 print 'YES' if the function returns True otherwise print 'NO'
 
