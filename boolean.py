@@ -12,7 +12,7 @@ print(10 < 9)
 
 When you run a condition in an if statement,Python returns True or False
 
-Print a message based on wheather is True or False
+Print a message based on whether is True or False
 x = 200
 y = 33
 if x > y:
