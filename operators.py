@@ -98,9 +98,9 @@ and             Returns True if both statement     x < y and x < 10
                 are true
 
 or              Returns True if one of
-                thestatement is true                x < y or y > 15
+                thestatement is true                x < 4 or x < 5
 
-not             Reverse the result, returns
+not             Reverse the result, returns         not(x < 5 and x < 10)
                 False if the result is true
 
 
@@ -111,21 +111,21 @@ OPERATOR        DESCRIPTION                        EXAMPLE
 is              Returns True if both variables
                 are the same object                 x is y
 
-is not          Returns True if both variables
+is not          Returns True if both variables      x is not y
                 are not the same object
 
 
                         PYTHON MEMBERSHIP OPERATORS
 Membership operators are used to test if a sequence is presented in an object
 
-OPERATOR                            DESCRIPTION                      
-in                                  Returns True if a sequence with 
-                                    the specified value is present in 
-                                    the object
+OPERATOR        DESCRIPTION                            EXAMPLE
+in              Returns True if a sequence with         x in y
+                the specified value is present in 
+                the object
 
-not in                              Returns True if a sequence with
-                                    the specified value is not present
-                                    in the object
+not in          Returns True if a sequence with         x not in y
+                the specified value is not present
+                in the object
 
 
                     PYTHON BITWISE OPERATORS
