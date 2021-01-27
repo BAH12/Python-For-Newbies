@@ -432,7 +432,7 @@ Case - sensitive sorting can give an unexpected result
 fruits = ['apple', 'Orange', 'Kiwi', 'cherry']
 print(fruits)
 
-Luckily we can use built-in function s as key functions when sorting a list
+Luckily we can use built-in function as key functions when sorting a list
 So if you want a case - sensitive sort function, use str.lower as key function
 fruits = ['apple', 'Orange', 'Kiwi', 'cherry']
 fruits.sort(key = str.lower)
