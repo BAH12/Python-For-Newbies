@@ -70,7 +70,7 @@ note = REMEMBER THAT VARIABLES NAMES ARE CASE-SENSITIVE
 Variables names with more than one word can be difficult to read
 There are several techniques you can use to make them more readable
 
-CAMEL-CASE = Each word,execept the first,start with a capital letter
+CAMEL-CASE = Each word,except the first,start with a capital letter
 myVariableName = 'john'
 
 PASCAL-CASE = Each word start with a capital letter
